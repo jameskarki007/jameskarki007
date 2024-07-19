@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @jameskarki007
-- 👀 I’m interested in Programming
-- 🌱 I’m currently learning Html and CSS
+- 👋 Hi, I’m @jameskarki
+- 👀 I love programming and want to become a part of Information and Technological World
+- 🌱 I’m currently learning new things.
 
 <!---
 jameskarki007/jameskarki007 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
